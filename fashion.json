@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "title": "Boho Breeze Pink Scarf",
+      "price": "599.00",
+      "image": "wp-content/uploads/2023/10/fashion-3-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Boho Breeze Yellow Scarf",
+      "price": "599.00",
+      "image": "wp-content/uploads/2023/10/scarf.png"
+    },
+    {
+      "id": 3,
+      "title": "Boho Breeze Brown Scarf",
+      "price": "599.00",
+      "image": "wp-content/uploads/2023/10/fashion-2.png"
+    },
+    {
+      "id": 4,
+      "title": "Boho Breeze Purple Scarf",
+      "price": "599.00",
+      "image": "wp-content/uploads/2023/10/scarf-4.png"
+    },
+    {
+      "id": 5,
+      "title": "Boho Breeze Orange Scarf",
+      "price": "599.00",
+      "image": "wp-content/uploads/2023/10/scarf-5.png"
+    },
+    {
+      "id": 6,
+      "title": "Boho Chic Orange Saree",
+      "price": "3299.00",
+      "image": "wp-content/uploads/2023/10/image.png"
+    },
+    {
+        "id": 7,
+        "title": "Boho Chic Pink Saree",
+        "price": "3299.00",
+        "image": "wp-content/uploads/2023/10/image-3.png"
+    },
+    {
+        "id": 8,
+        "title": "Boho Chic Black Saree",
+        "price": "3299.00",
+        "image": "wp-content/uploads/2023/10/banner.png"
+    },
+    {
+        "id": 9,
+        "title": "Boho Chic Green Saree",
+        "price": "3299.00",
+        "image": "wp-content/uploads/2023/10/image-4.png"
+    },
+    {
+        "id": 10,
+        "title": "Groove Dye Unisex Shirt - Black",
+        "price": "2899.00",
+        "image": "wp-content/uploads/2023/10/image-1.png"
+    },
+    {
+        "id": 11,
+        "title": "Groove Dye Unisex Shirt - Blue",
+        "price": "2599.00",
+        "image": "wp-content/uploads/2023/10/Blue.png"
+    },
+    {
+        "id": 12,
+        "title": "Groove Dye Unisex Shirt - Brown",
+        "price": "2599.00",
+        "image": "wp-content/uploads/2023/10/Brown.png"
+    },
+    {
+        "id": 13,
+        "title": "Groove Dye Unisex Shirt - Green",
+        "price": "2899.00",
+        "image": "wp-content/uploads/2023/10/Green.png"
+    }
+  ]
