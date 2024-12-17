@@ -286,7 +286,7 @@ var wc_country_select_params = {"countries":"{\"AF\":[],\"AL\":{\"AL-01\":\"Bera
 	document.addEventListener("DOMContentLoaded", function () {
 	  const productsContainer = document.getElementById("products-container");
 
-	  fetch('accessories.json')
+	  fetch('productjson/accessories.json')
 		.then(response => response.json())
 		.then(products => {
 		  products.forEach(product => {
