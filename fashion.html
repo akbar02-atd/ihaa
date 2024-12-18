@@ -492,7 +492,7 @@ hand embroidery in fashion is a meticulous and artistic craft that enhances garm
 					const productsContainer = document.getElementById("fashion-products-container");
 				
 					// Fetch data from fashion.json
-					fetch('fashion.json')
+					fetch('productjson/fashion.json')
 						.then(response => response.json())
 						.then(products => {
 							products.forEach(product => {
@@ -566,7 +566,7 @@ hand embroidery in fashion is a meticulous and artistic craft that enhances garm
 				  <script>
 					document.addEventListener('DOMContentLoaded', function () {
 					  // Fetch the footer.html content
-					  fetch('productjson/footer.html') // Adjust the path to footer.html as needed
+					  fetch('footer.html') // Adjust the path to footer.html as needed
 						.then(response => {
 						  if (!response.ok) {
 							throw new Error('Network response was not ok');
